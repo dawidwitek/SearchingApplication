@@ -1,0 +1,12 @@
+table {
+  width: 100%;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.status {
+  font-weight: bold;
+}
